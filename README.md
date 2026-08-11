@@ -620,20 +620,21 @@ Average customer and driver ratings are approximately 4.00.
 
 ### 1.  Overall Performance
 
-![Ola Overall Performance](./Screenshots/ola1.png)
+![Ola Overall Performance](./ola%201.png)
 
 ### 2.  Vehicle Type Analysis
 
-![Ola Vehicle Type Analysis](./Screenshots/ola2.png)
+![Ola Vehicle Type Analysis](./ola%202.png)
 
 ### 3.  Revenue Analysis
 
-![Ola Revenue Analysis](./Screenshots/ola3.png)
+![Ola Revenue Analysis](./ola%203.png)
 
 ### 4.  Cancellation Analysis
 
-![Ola Cancellation Analysis](./Screenshots/ola4.png)
+![Ola Cancellation Analysis](./ola%204.png)
 
 ### 5.  Ratings Analysis
 
-![Ola Ratings Analysis](./Screenshots/ola5.png)
+![Ola Ratings Analysis](./ola%205.png)
+
