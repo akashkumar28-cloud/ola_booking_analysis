@@ -546,7 +546,7 @@ Differences across vehicle types are very small.
 > Overall service satisfaction is stable, but cancellation issues appear to
 > be a more significant operational concern than rating performance.
 
-# 💼 Business Impact
+#  Business Impact
 
 ## 1.  Improve Booking Completion
 
