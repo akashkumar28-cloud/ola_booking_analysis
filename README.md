@@ -34,7 +34,7 @@ The project was developed using the following tools and technologies:
 
 - **Microsoft Excel** – Used for initial data inspection, data cleaning,
   validation, formatting, and preparation.
-- **SQL / MySQL** – Used for data exploration, filtering, aggregation,
+- **SQL / PostgreSQL** – Used for data exploration, filtering, aggregation,
   business analysis, and answering key analytical questions.
 - **Power Query** – Used for data transformation and preparation within
   Power BI.
